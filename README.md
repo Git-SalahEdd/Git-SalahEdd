@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif" height="280" width="1340"><br />
+    <img src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif" height="180" width="1340"><br />
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Salah Eddine.<br>
