@@ -7,42 +7,69 @@
         Currently a Software Engineer student at ALX Africa.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/salah-eddine-ait-si-ahmad/">
-        <img src="https://img.shields.io/badge/LinkedIn-330F63?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
+    
 </p>
 
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Git-SalahEdd)
+### 📫 **How to reach me**: 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salaheddine.aitsiahmad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-ait-si-ahmad/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1149717993396375605)
+
+### 📑 Languages
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Git-SalahEdd)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Git-SalahEdd)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Git-SalahEdd)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Git-SalahEdd)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Git-SalahEdd)
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Git-SalahEdd)
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)](https://github.com/Git-SalahEdd)
 [![css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=CSS3)](https://github.com/Git-SalahEdd)
-
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Git-SalahEdd)
+[![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com/Git-SalahEdd)
 ### Frontend Frameworks
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Git-SalahEdd)
 
-### Database
-[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Git-SalahEdd)
+### 🛢️ Database
 
-### Technologies & Tools
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Git-SalahEdd)
+[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/Git-SalahEdd)
+
+### 📚 Technologies & Tools
+
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://github.com/Git-SalahEdd)
-[![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender)](https://github.com/Git-SalahEdd)
-[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Git-SalahEdd)
-[![Emacs](https://img.shields.io/badge/emacs-black?style=for-the-badge&logo=spacemacs)](https://github.com/Git-SalahEdd)
+[![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)](https://github.com/Git-SalahEdd)
+[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)](https://github.com/Git-SalahEdd)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://github.com/Git-SalahEdd)
 [![Photoshop](https://img.shields.io/badge/phtoshop-black?style=for-the-badge&logo=adobe-photoshop)](https://github.com/Git-SalahEdd)
 [![Illustrator](https://img.shields.io/badge/illustrator-black?style=for-the-badge&logo=adobe-illustrator)](https://github.com/Git-SalahEdd)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://github.com/Git-SalahEdd)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Git-SalahEdd)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Git-SalahEdd)
+[![Emacs](https://img.shields.io/badge/emacs-black?style=for-the-badge&logo=spacemacs)](https://github.com/Git-SalahEdd)
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/Git-SalahEdd)
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/Git-SalahEdd)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Git-SalahEdd)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://github.com/Git-SalahEdd)
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Git-SalahEdd)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Git-SalahEdd)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/Git-SalahEdd)
 
-### DevOps
+### 👷 DevOps
+
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/salaheddine463)
-[![Vagrant](https://img.shields.io/badge/vagrant-black?style=for-the-badge&logo=vagrant)](https://github.com/Git-SalahEdd)
+[![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://github.com/Git-SalahEdd)
 
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Git-SalahEdd)
+### 🖥️ OS
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Git-SalahEdd)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Git-SalahEdd)
+
+### 🗄️ Servers
+
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/Git-SalahEdd)
 
 <details>
 <p align="center">
@@ -62,19 +89,9 @@
 </p>
 </details>
 
+
 <p align="center">
   <a href="https://github.com/Git-SalahEdd">
     <img src="https://komarev.com/ghpvc/?username=Git-SalahEdd&color=blue&style=flat)" />
   </a>
 </p>
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
