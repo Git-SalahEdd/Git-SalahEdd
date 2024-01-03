@@ -1,9 +1,8 @@
 <p align="center">
     <img src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif" height="180" width="1340"><br />
     <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Salah Eddine.<br>
-        Currently a Software Engineer student at ALX Africa.<br>
+       Salah Eddine, that's me 😁. enthusiastic in IT, audiovisual and photography.<br>
+        <i>Currently a Software Engineer student at ALX Africa.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     
