@@ -22,6 +22,7 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Git-SalahEdd)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Git-SalahEdd)
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Git-SalahEdd)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Git-SalahEdd)
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)](https://github.com/Git-SalahEdd)
 [![css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=CSS3)](https://github.com/Git-SalahEdd)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Git-SalahEdd)
