@@ -8,6 +8,24 @@
     
 </p>
 
+<details>
+<p align="center">
+  <a href="https://github.com/Git-SalahEdd">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Git-SalahEdd&theme=transparent" />
+  </a>
+  <a href="https://github.com/Git-SalahEdd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-SalahEdd&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Git-SalahEdd">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Git-SalahEdd&theme=transparent" />
+  </a>
+
+<a href="https://github.com/Git-SalahEdd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-SalahEdd&langs_count=7&theme=transparent" />
+  </a>
+</p>
+</details>
+
 ### 📫 **How to reach me**: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salaheddine.aitsiahmad@gmail.com)
@@ -71,24 +89,6 @@
 
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/Git-SalahEdd)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Git-SalahEdd)
-
-<details>
-<p align="center">
-  <a href="https://github.com/Git-SalahEdd">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Git-SalahEdd&theme=transparent" />
-  </a>
-  <a href="https://github.com/Git-SalahEdd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-SalahEdd&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Git-SalahEdd">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Git-SalahEdd&theme=transparent" />
-  </a>
-
-<a href="https://github.com/Git-SalahEdd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-SalahEdd&langs_count=7&theme=transparent" />
-  </a>
-</p>
-</details>
 
 
 <p align="center">
