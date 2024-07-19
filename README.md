@@ -47,7 +47,7 @@
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Git-SalahEdd)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/Git-SalahEdd)
 
-### Frontend Frameworks
+### 💻 Frontend Frameworks
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Git-SalahEdd)
 
 ### 🛢️ Database
